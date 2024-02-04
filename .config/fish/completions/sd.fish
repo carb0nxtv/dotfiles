@@ -1,0 +1,2 @@
+complete -c sd -s f -l flags -d 'Regex flags. May be combined (like `-f mc`)' -r -f -a "{c  case-sensitive,e    disable multi-line matching,i   case insensitive,m  multi-line matching,s   make `.` match newlines,w   match full words only	}"
+### complete -c sd -s f -l flags -d 'Regex flags. May be combined (like `-f mc`)' -r -a "{c     case-sensitive,e disable multi-line matching,i case insensitive,m multi-line matching,s make `.` match newlines,w match full words only}"

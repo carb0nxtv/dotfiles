@@ -1,0 +1,48 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export BROWSER:/usr/bin/wslview
+SETUVAR --export EDITOR:vim
+SETUVAR --export GPG_TTY:/dev/pts/6
+SETUVAR --export LANG:en_US\x2eUTF\x2d8
+SETUVAR --export LC_ALL:en_US\x2eUTF\x2d8
+SETUVAR --export MANPATH:\x1d
+SETUVAR --export --path PATH:/home/carb0n/\x2elocal/share/pnpm\x1e/home/carb0n/\x2epyenv/shims\x1e/home/carb0n/\x2easdf/shims\x1e/home/carb0n/\x2easdf/bin\x1e/home/carb0n/\x2epulumi/bin\x1e/home/carb0n/\x2easdf/installs/nodejs/18\x2e16\x2e0/bin\x1e/home/carb0n/\x2eminiconda3/bin\x1e/home/linuxbrew/\x2elinuxbrew/bin\x1e/home/carb0n/\x2egarden/bin\x1e/home/carb0n/\x2epyenv/bin\x1e/home/carb0n/\x2elocal/bin\x1e/home/carb0n/\x2ecargo/bin\x1e/home/carb0n/\x2eminiconda3/condabin\x1e/usr/local/sbin\x1e/usr/local/bin\x1e/usr/sbin\x1e/usr/bin\x1e/sbin\x1e/bin\x1e/usr/games\x1e/usr/local/games\x1e/usr/lib/wsl/lib\x1e/mnt/c/Program\x20Files/Alacritty/\x1e/mnt/c/Windows/system32\x1e/mnt/c/Windows\x1e/mnt/c/Windows/System32/Wbem\x1e/mnt/c/Windows/System32/WindowsPowerShell/v1\x2e0/\x1e/mnt/c/Windows/System32/OpenSSH/\x1e/mnt/c/Program\x20Files/NVIDIA\x20Corporation/NVIDIA\x20NvDLISR\x1e/mnt/c/Program\x20Files\x20\x28x86\x29/NVIDIA\x20Corporation/PhysX/Common\x1e/mnt/c/Program\x20Files/PowerShell/7/\x1e/mnt/c/Program\x20Files/Docker/Docker/resources/bin\x1e/mnt/c/Users/abhyu/AppData/Local/Microsoft/WindowsApps\x1e/mnt/c/Users/abhyu/AppData/Local/Programs/Microsoft\x20VS\x20Code/bin\x1e/mnt/c/Users/abhyu/AppData/Local/JetBrains/Toolbox/scripts\x1e/snap/bin
+SETUVAR --export PNPM_HOME:/home/carb0n/\x2elocal/share/pnpm
+SETUVAR --export PYENV_ROOT:/home/carb0n/\x2epyenv
+SETUVAR --export XDG_CONFIG_HOME:/home/carb0n/\x2econfig
+SETUVAR __fish_initialized:3400
+SETUVAR _fisher_jhillyerd_2F_plugin_2D_git_files:\x7e/\x2econfig/fish/functions/__git\x2ebranch_has_wip\x2efish\x1e\x7e/\x2econfig/fish/functions/__git\x2ecurrent_branch\x2efish\x1e\x7e/\x2econfig/fish/functions/__git\x2edefault_branch\x2efish\x1e\x7e/\x2econfig/fish/functions/__git\x2edestroy\x2efish\x1e\x7e/\x2econfig/fish/functions/__git\x2einit\x2efish\x1e\x7e/\x2econfig/fish/functions/gbage\x2efish\x1e\x7e/\x2econfig/fish/functions/gbda\x2efish\x1e\x7e/\x2econfig/fish/functions/gdv\x2efish\x1e\x7e/\x2econfig/fish/functions/gignored\x2efish\x1e\x7e/\x2econfig/fish/functions/glp\x2efish\x1e\x7e/\x2econfig/fish/functions/grename\x2efish\x1e\x7e/\x2econfig/fish/functions/grt\x2efish\x1e\x7e/\x2econfig/fish/functions/gtest\x2efish\x1e\x7e/\x2econfig/fish/functions/gtl\x2efish\x1e\x7e/\x2econfig/fish/functions/gunwip\x2efish\x1e\x7e/\x2econfig/fish/functions/gwip\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/git\x2efish
+SETUVAR _fisher_jorgebucaran_2F_autopair_2E_fish_files:\x7e/\x2econfig/fish/functions/_autopair_backspace\x2efish\x1e\x7e/\x2econfig/fish/functions/_autopair_insert_left\x2efish\x1e\x7e/\x2econfig/fish/functions/_autopair_insert_right\x2efish\x1e\x7e/\x2econfig/fish/functions/_autopair_insert_same\x2efish\x1e\x7e/\x2econfig/fish/functions/_autopair_tab\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/autopair\x2efish
+SETUVAR _fisher_jorgebucaran_2F_fisher_files:\x7e/\x2econfig/fish/functions/fisher\x2efish\x1e\x7e/\x2econfig/fish/completions/fisher\x2efish
+SETUVAR _fisher_plugins:jorgebucaran/fisher\x1ejorgebucaran/autopair\x2efish\x1ejhillyerd/plugin\x2dgit
+SETUVAR _fisher_upgraded_to_4_4:\x1d
+SETUVAR fish_color_autosuggestion:555\x1ebrblack
+SETUVAR fish_color_cancel:\x2dr
+SETUVAR fish_color_command:005fd7
+SETUVAR fish_color_comment:990000
+SETUVAR fish_color_cwd:green
+SETUVAR fish_color_cwd_root:red
+SETUVAR fish_color_end:009900
+SETUVAR fish_color_error:ff0000
+SETUVAR fish_color_escape:00a6b2
+SETUVAR fish_color_history_current:\x2d\x2dbold
+SETUVAR fish_color_host:normal
+SETUVAR fish_color_host_remote:yellow
+SETUVAR fish_color_normal:normal
+SETUVAR fish_color_operator:00a6b2
+SETUVAR fish_color_param:00afff
+SETUVAR fish_color_quote:999900
+SETUVAR fish_color_redirection:00afff
+SETUVAR fish_color_search_match:bryellow\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_selection:white\x1e\x2d\x2dbold\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_status:red
+SETUVAR fish_color_user:brgreen
+SETUVAR fish_color_valid_path:\x2d\x2dunderline
+SETUVAR fish_greeting:
+SETUVAR fish_key_bindings:fish_default_key_bindings
+SETUVAR fish_pager_color_completion:\x1d
+SETUVAR fish_pager_color_description:B3A06D\x1eyellow
+SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
+SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
+SETUVAR fish_pager_color_selected_background:\x2dr
+SETUVAR fish_user_paths:/home/carb0n/\x2easdf/shims\x1e/home/carb0n/\x2easdf/bin\x1e/home/carb0n/\x2epulumi/bin\x1e/home/carb0n/\x2easdf/installs/nodejs/18\x2e16\x2e0/bin\x1e/home/carb0n/\x2eminiconda3/bin\x1e/home/linuxbrew/\x2elinuxbrew/bin\x1e/home/carb0n/\x2egarden/bin\x1e/home/carb0n/\x2epyenv/bin\x1e/home/carb0n/\x2elocal/bin\x1e/home/carb0n/\x2ecargo/bin\x1e/home/linuxbrew/\x2elinuxbrew/opt/fzf/bin

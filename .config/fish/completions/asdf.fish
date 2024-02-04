@@ -1,0 +1,1 @@
+/home/carb0n/.asdf/completions/asdf.fish
